@@ -4,7 +4,7 @@ This repository contains a comprehensive collection of data science assignments 
 
 ## Table of Contents
 
-1. [Basic Statistics - 1]([#basic-statistics-1](https://github.com/Sanketkshirsagar05/Data-Science-Assignment/tree/main/1.Basic%20stats%20-%201))
+1. [Basic Statistics - 1](https://github.com/Sanketkshirsagar05/Data-Science-Assignment/tree/main/1.Basic%20stats%20-%201)
 2. [Basic Statistics - 2](https://github.com/Sanketkshirsagar05/Data-Science-Assignment/tree/main/2.Basic%20stats%20-%202)
 3. [Basics of Python](https://github.com/Sanketkshirsagar05/Data-Science-Assignment/tree/main/3.Basics%20of%20python)
 4. [Hypothesis Testing](https://github.com/Sanketkshirsagar05/Data-Science-Assignment/tree/main/4.Hypothesis%20testing)
@@ -13,7 +13,7 @@ This repository contains a comprehensive collection of data science assignments 
 7. [Logistic Regression](https://github.com/Sanketkshirsagar05/Data-Science-Assignment/tree/main/7.Logistic%20Regression)
 8. [Clustering](https://github.com/Sanketkshirsagar05/Data-Science-Assignment/tree/main/8.Clustering)
 9. [Principal Component Analysis (PCA)](https://github.com/Sanketkshirsagar05/Data-Science-Assignment/tree/main/9.PCA)
-10. [Association Rules]((https://github.com/Sanketkshirsagar05/Data-Science-Assignment/tree/main/10.Association%20Rules)
+10. [Association Rules](https://github.com/Sanketkshirsagar05/Data-Science-Assignment/tree/main/10.Association%20Rules)
 11. [Recommendation System](https://github.com/Sanketkshirsagar05/Data-Science-Assignment/tree/main/11.Recommendation%20System)
 12. [Exploratory Data Analysis 2 (EDA2)](https://github.com/Sanketkshirsagar05/Data-Science-Assignment/tree/main/12.EDA2)
 13. [Decision Tree](https://github.com/Sanketkshirsagar05/Data-Science-Assignment/tree/main/13.Decision%20Tree)
