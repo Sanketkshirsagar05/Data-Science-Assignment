@@ -19,6 +19,12 @@ This repository contains a comprehensive collection of data science assignments 
 13. [Decision Tree](#decision-tree)
 14. [Random Forest](#random-forest)
 15. [XGBoost & LightGBM](#xgboost-lightgbm)
+16. [K-Nearest Neighbors (KNN)](#recommendation-system)
+17. [Support Vector Machines (SVM)](#exploratory-data-analysis-2-eda2)
+18. [Neural Networks](#decision-tree)
+19. [Naive Bayes and Text Mining](#random-forest)
+20. [Time Series Analysis](#xgboost-lightgbm)
+
 
 ## Assignment Details
 
@@ -156,3 +162,48 @@ This repository contains a comprehensive collection of data science assignments 
 - Boosting algorithms
 - Hyperparameter tuning
 - Model interpretation
+
+### 16.K-Nearest Neighbors (KNN)
+
+Description: Introduction to the KNN algorithm for classification and regression tasks.
+
+*Contents:*
+- Understanding the KNN algorithm
+- Distance metrics
+- Choosing the value of K
+
+### 17.Support Vector Machines (SVM)
+
+*Description:* Exploration of SVM for classification and regression analysis.
+
+*Contents:*
+- Understanding hyperplanes and support vectors
+- Kernel functions
+- Implementing SVM using Python
+
+### 18.Neural Networks
+
+*Description:* Introduction to neural networks and deep learning concepts.
+
+*Contents:*
+- Structure of neural networks
+- Activation functions
+- Forward and backward propagation
+  
+### 19.Naive Bayes and Text Mining
+
+*Description:* Application of Naive Bayes algorithm in text mining and classification.
+
+*Contents:*
+- Understanding the Naive Bayes theorem
+- Text preprocessing techniques
+- Implementing Naive Bayes for text classification
+
+### 20.Time Series Analysis
+
+*Description:*Techniques for analyzing and forecasting time-dependent data.
+
+*Contents:*
+- Components of time series data
+- Stationarity and differencing
+- Autocorrelation and partial autocorrelation
