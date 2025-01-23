@@ -17,12 +17,12 @@ This repository contains a comprehensive collection of data science assignments 
 11. [Recommendation System](#recommendation-system)
 12. [Exploratory Data Analysis 2 (EDA2)](#exploratory-data-analysis-2-eda2)
 13. [Decision Tree](#decision-tree)
-14. [Random Forest](#random-forest)
-15. [XGBoost & LightGBM](#xgboost-lightgbm)
-16. [K-Nearest Neighbors (KNN)](#recommendation-system)
-17. [Support Vector Machines (SVM)](#exploratory-data-analysis-2-eda2)
-18. [Neural Networks](#decision-tree)
-19. [Naive Bayes and Text Mining](#random-forest)
+14. [Random Forest]()
+15. [XGBoost & LightGBM](https://github.com/Sanketkshirsagar05/Data-Science-Assignment/tree/main/15.XGBM%20%26%20LGBM)
+16. [K-Nearest Neighbors (KNN)](https://github.com/Sanketkshirsagar05/Data-Science-Assignment/tree/main/16.KNN)
+17. [Support Vector Machines (SVM)](https://github.com/Sanketkshirsagar05/Data-Science-Assignment/tree/main/17.SVM)
+18. [Neural Networks](https://github.com/Sanketkshirsagar05/Data-Science-Assignment/tree/main/18.Neural%20networks)
+19. [Naive Bayes and Text Mining](https://github.com/Sanketkshirsagar05/Data-Science-Assignment/tree/main/19.Naive%20Bayes%20and%20Text%20Mining)
 20. [Time Series Analysis](https://github.com/Sanketkshirsagar05/Data-Science-Assignment/tree/main/20.Timeseries)
 
 
