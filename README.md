@@ -23,7 +23,7 @@ This repository contains a comprehensive collection of data science assignments 
 17. [Support Vector Machines (SVM)](#exploratory-data-analysis-2-eda2)
 18. [Neural Networks](#decision-tree)
 19. [Naive Bayes and Text Mining](#random-forest)
-20. [Time Series Analysis](#xgboost-lightgbm)
+20. [Time Series Analysis](https://github.com/Sanketkshirsagar05/Data-Science-Assignment/tree/main/20.Timeseries)
 
 
 ## Assignment Details
