@@ -2,6 +2,7 @@
 
 This repository contains a comprehensive collection of data science assignments designed to strengthen your understanding of various data science concepts, techniques, and tools. It is a valuable resource for anyone looking to enhance their skills in statistics, machine learning, and data analysis.
 
+
 ## Table of Contents
 
 1. [Basic Statistics - 1](https://github.com/Sanketkshirsagar05/Data-Science-Assignment/tree/main/1.Basic%20stats%20-%201)
